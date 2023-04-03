@@ -1,6 +1,4 @@
 
-char nique="Hello Fils de pute, je te hais profondément";
-
 void setup() {
   // put your setup code here, to run once:
 pinMode(7,OUTPUT);
@@ -19,5 +17,4 @@ void loop() {
   digitalWrite(8, LOW);
   delay(450);
 
-printf(nique);
 }
