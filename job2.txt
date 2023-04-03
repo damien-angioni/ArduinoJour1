@@ -1,0 +1,15 @@
+Méthode loi d'Ohm:
+R=U/I
+R=2/0.02
+R=100
+
+Méthode du Pont diviseur de tension:
+Vout= Vin(R2/(R1 + R2)
+2=5(R2/(R1+R2)
+
+(Résolution de l'équation différentielle:)
+
+R1=3
+R2=2
+
+Ne possédant pas de Résistances de 3 OHm ou de 2 Ohm, pour le job 3, sera appliqué la loi d'Ohm
