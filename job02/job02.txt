@@ -13,3 +13,8 @@ R1=3
 R2=2
 
 Ne possédant pas de Résistances de 3 OHm ou de 2 Ohm, pour le job 3, sera appliqué la loi d'Ohm
+
+Selon la loi d'Ohm, la valeur de la résistance est:
+
+R = 2 x 0.01
+R = 200
